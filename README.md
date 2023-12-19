@@ -1,4 +1,4 @@
-# Taller de evaluación: seminario-ISE-2023-B1
+# Taller de evaluación: seminario-ISE-2023-B2
 
 En esta última clase de Ingeniería de Servidores se plantea un taller práctico que tiene como objetivo movilizar las competencias adquiridas durante el curso. En particular, el ejercicio consiste en escribir una carta de motivación donde nos postularemos como candidatos para una de las tres ofertas de trabajo enunciadas a continuación. El ejercicio consta de dos partes:
 
@@ -83,4 +83,4 @@ Cada propuesta será evaluada por tres compañeros. A su vez, usted evaluará tr
 
 ## 3. Evaluación de cartas de motivación
 
-Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/15kN9dRVdWs4Y2zVaqjeEW1LO0NQX3IH4dlF4KrP6quc/edit?usp=sharing)
+Espere instrucciones del profesor una vez haya enviado su carta de motivación. Para proceder con la evaluación de las cartas de sus compañeros [puede seguir este enlace](https://docs.google.com/spreadsheets/d/1Piu5XZrJqK7UM2mqyQzjQf7AQxVztQpC6dwo0oEwW6Y/edit?usp=sharing)
